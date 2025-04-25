@@ -8,7 +8,7 @@
 
 ## 3. add SQL file
 
-- in your workbench run the following sql file "userinputs"
+- in your workbench run the following sql file "dump"
 
 ## 4. start backend and frontend 
 
