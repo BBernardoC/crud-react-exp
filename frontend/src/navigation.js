@@ -129,6 +129,7 @@ export default function MiniDrawer() {
           <IconButton onClick={() => {navigate('/') } } variant="h6" noWrap component="div">
             <HomeIcon/> 
           </IconButton>
+          BERNARDO CZIZYK
         </Toolbar>
       </AppBar>
       <Drawer variant="permanent" open={open}>
@@ -184,3 +185,4 @@ export default function MiniDrawer() {
     </Box>
   );
 }
+  
