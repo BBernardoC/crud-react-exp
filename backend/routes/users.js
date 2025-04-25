@@ -1,5 +1,5 @@
 import express from "express";
-import { getUsers, updateUser, deleteUser, addUser } from "../controllers/users.js"; // Importe a função addUser
+import { getUsers, updateUser, deleteUser, addUser } from "../controllers/users.js"; 
 
 const router = express.Router();
 
